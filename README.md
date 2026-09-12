@@ -166,15 +166,3 @@ git push origin feature-name
 
 ---
 
-## Author
-
-**Anjan Kumar**
-
-- GitHub: https://github.com/anjankumar234
-- LinkedIn: www.linkedin.com/in/anjan-kumar-kantepalli-a60940253
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
